@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on: Python Projects (Games, Automation)
 - 🌱 I’m learning: Machine Learning, Data Science
 - 💬 Ask me about: Python, GitHub, Tkinter
-- 📫 How to reach me: rohan@gmail.com
+- 📫 How to reach me: rohanjagatap998@gmail.com
 - ⚡ Fun fact: I build games for fun and love AI!
 
 ## 📈 GitHub Stats
